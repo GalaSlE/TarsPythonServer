@@ -1,0 +1,10 @@
+
+module DemoApp
+{
+
+interface RunPandas
+{
+    int test(string request, out string response);
+};
+
+}; 
